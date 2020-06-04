@@ -55,6 +55,14 @@ refresh the browser and you will see the web browser is working now
 
 
 Section 4 Integrating Ansible in CI/CD pipeline 
+Ansible setup
+Integrate ANsible with Jenkins
+Run Ansible playbooks from Jenkins
+update playbooks to delete and create docker containers
+dockerhub integration with Ansible
+Tagging docker image using Ansible playbooks
+Jenkins Job to deploy on Docker Container through docker hub
+Jenkins job to deploy a war file on docker container using Ansible. 
 
 Section 5 Integrating Kubernetes in CI/CD pipeline
 
