@@ -1,5 +1,7 @@
 # DevOps CI/CD pipelines using Git, Jenkins, Ansible, Docker and Kubernetes on AWS please refer to the zip file ( devops project which explains how to install certain services on AWS (LINUX) 
 
+JENKINS can be configured via Docker as well in that case please refer to docker offical website once we install docker and docker compose we would need to download new Jenkins image from docker hub and create new file (docker-compose.yml) I have created one for refernce above afterwards we can run docker-compose command ( docker-compose up -d) 
+
 section 1 CI/CD pipeline using GIT, Jenkins and Maven 
 
 Section 2 Integrating Tomcat server in CI/CD pipeline 
