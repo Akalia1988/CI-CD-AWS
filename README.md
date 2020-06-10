@@ -1,4 +1,4 @@
-# DevOps CI/CD pipelines using Git, Jenkins, Ansible, Docker and Kubernetes on AWS please refer to the zip file ( devops project which explains how to install certain services on AWS (LINUX) 
+# DevOps CI/CD pipelines using Git, Jenkins, Ansible, Docker and Kubernetes on AWS please refer to the zip file ( devops project which explains how to install certain services on AWS (LINUX/red hat or any linux server) 
 
 Please refer to .zip file above which explains how to install/configure required services. 
 
